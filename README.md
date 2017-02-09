@@ -15,7 +15,7 @@ The dependencies needed (off the top of my head):
 
 You may need to run cmake beforehand, if the Makefile included widely varies from your Qt install.
 
-`make && ./piranha'
+`make && ./piranha`
 
 ## Using the GUI
 
